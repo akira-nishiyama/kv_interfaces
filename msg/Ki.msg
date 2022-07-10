@@ -1,2 +1,3 @@
 string key
-int32 val
+uint32 val
+uint32 status
